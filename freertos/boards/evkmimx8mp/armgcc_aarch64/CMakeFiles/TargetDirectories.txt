@@ -1,0 +1,3 @@
+/home/efacec/nxp/Repositories/hww/harpoon-apps/test_gpio/freertos/boards/evkmimx8mp/armgcc_aarch64/CMakeFiles/test_gpio.elf.dir
+/home/efacec/nxp/Repositories/hww/harpoon-apps/test_gpio/freertos/boards/evkmimx8mp/armgcc_aarch64/CMakeFiles/edit_cache.dir
+/home/efacec/nxp/Repositories/hww/harpoon-apps/test_gpio/freertos/boards/evkmimx8mp/armgcc_aarch64/CMakeFiles/rebuild_cache.dir

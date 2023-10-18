@@ -1,0 +1,6 @@
+menu "hal_nxp (/home/efacec/nxp/Repositories/hww/modules/hal/nxp)"
+osource "$(ZEPHYR_HAL_NXP_KCONFIG)"
+config ZEPHYR_HAL_NXP_MODULE
+	bool
+	default y
+endmenu

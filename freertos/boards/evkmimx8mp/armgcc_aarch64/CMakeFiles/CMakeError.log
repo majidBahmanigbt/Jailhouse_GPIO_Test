@@ -1,0 +1,24 @@
+Compiling the C compiler identification source file "CMakeCCompilerId.c" failed.
+Compiler: /opt/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/aarch64-none-elf-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/opt/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/bin/ld: /opt/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libc.a(lib_a-exit.o): in function `exit':
+/data/jenkins/workspace/GNU-toolchain/arm-10/src/newlib-cygwin/newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /opt/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/aarch64-none-elf-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+1
+/opt/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/bin/ld: /opt/gcc-arm-10.3-2021.07-x86_64-aarch64-none-elf/bin/../lib/gcc/aarch64-none-elf/10.3.1/../../../../aarch64-none-elf/lib/libc.a(lib_a-exit.o): in function `exit':
+/data/jenkins/workspace/GNU-toolchain/arm-10/src/newlib-cygwin/newlib/libc/stdlib/exit.c:64: undefined reference to `_exit'
+collect2: error: ld returned 1 exit status
+
+

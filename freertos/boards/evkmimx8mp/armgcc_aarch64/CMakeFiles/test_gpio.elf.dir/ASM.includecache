@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/efacec/nxp/Repositories/hww/FreeRTOS-Kernel/portable/GCC/AARCH64_SRE/portASM.S
+
+/home/efacec/nxp/Repositories/hww/harpoon-apps/common/freertos/core/armv8a/startup.S
+

@@ -1,0 +1,1 @@
+"hal_nxp":"/home/efacec/nxp/Repositories/hww/modules/hal/nxp":"${ZEPHYR_HAL_NXP_CMAKE_DIR}"

@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "clock_config.h": "c",
+        "fsl_gpio.h": "c"
+    }
+}
